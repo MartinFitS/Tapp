@@ -11,6 +11,10 @@
 
 ::-webkit-scrollbar {display: none;}
 
+.spaceBetweenCards{
+    width: 100%;
+    height: 50px;
+}
 .menu{
     width: 100%;
     height: auto;
@@ -167,6 +171,7 @@
 }
 
 .card{
+    margin-top: 30px;
     display: flex;
     width: 60%;
     height: 300px;
